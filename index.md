@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![image]([https://myoctocat.com/assets/images/base-octocat.svg](https://th.bing.com/th/id/R.aa7fca601522c10967980c7828e03625?rik=t1%2fskw9eJYpOWQ&riu=http%3a%2f%2fi0.kym-cdn.com%2fphotos%2fimages%2ffacebook%2f000%2f757%2f457%2f7de.jpg&ehk=jXsw1NTAd8kW6An4gf2gPIZAofXfdwHWCwmc31vt2w8%3d&risl=&pid=ImgRaw&r=0))
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
